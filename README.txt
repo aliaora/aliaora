@@ -1,40 +1,32 @@
-# Hi there 👋
-
-Welcome to my GitHub! I'm **Ali Alnaimi**, a passionate and detail-oriented code enthusiast transitioning from product design into the tech world.
-
-## About Me
-
-I’m a creative problem-solver with a strong background in design thinking, now focused on data and technology. I specialize in:
-
-- 🐍 **Python**
-- 🗃️ **SQL**
-- 📊 **Power BI** & **Tableau**
-
-I enjoy building projects that solve real problems, and I'm always looking to grow through innovative, meaningful work in **Data Analysis** and **Tech Development**.
-
-## Projects
-
-Here are a few of my favorite projects:
-
-- 🧹 [SQL Data Cleaning](https://github.com/al1A91/SQL-Employee-Layoffs-Data-Cleaning)  
-  Cleaning and transforming raw employee layoff data using SQL.
-
-- 💸 [Insurance Cost by Age](https://github.com/al1A91/insurance_cost)  
-  Python project to analyze how age affects insurance costs.
-
-- 🎬 [Watch Next](https://github.com/al1A91/watch_next)  
-  Movie recommendation tool based on similarity scores.
-
-- 🧮 [Finance Calculator](https://github.com/al1A91/finance_calculator)  
-  A Python tool to help manage and plan personal finances.
-
-- 💣 [Mine Sweeper Game](https://github.com/al1A91/mine_sweeper)  
-  A simple implementation of the classic Minesweeper game.
+Massively by HTML5 UP
+html5up.net | @ajlkn
+Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
 
 
-## Contact Me
+This is Massively, a text-heavy, article-oriented design built around a huge background
+image (with a new parallax implementation I'm testing) and scroll effects (powered by
+Scrollex). A *slight* departure from all the one-pagers I've been doing lately, but one
+that fulfills a few user requests and makes use of some new techniques I've been wanting
+to try out. Enjoy it :)
 
-- 📧 **Email:** ali_alnaimi91@hotmail.com  
-- 💼 **LinkedIn:** [Ali Alnaimi](https://www.linkedin.com/in/alialnaimi)
+Demo images* courtesy of Unsplash, a radtastic collection of CC0 (public domain) images
+you can use for pretty much whatever.
 
-Thanks for stopping by!
+(* = not included)
+
+AJ
+aj@lkn.io | @ajlkn
+
+
+Credits:
+
+	Demo Images:
+		Unsplash (unsplash.com)
+
+	Icons:
+		Font Awesome (fontawesome.io)
+
+	Other:
+		jQuery (jquery.com)
+		Scrollex (github.com/ajlkn/jquery.scrollex)
+		Responsive Tools (github.com/ajlkn/responsive-tools)
